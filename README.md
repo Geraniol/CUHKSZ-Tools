@@ -10,11 +10,11 @@ A repo of tools for CUHK(SZ)
 
 - `CUHKSZ_OCTE_Tools`  
   - OCTE 快速填充脚本  
-  - 导入地址：[https://geraniol.github.io/CUHKSZ-Tools/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js](https://geraniol.github.io/CUHKSZ-Tools/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js)  
+  - 导入地址：[https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_OCTE_Tools/CUHKSZ_OCTE_Tools.js](https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_OCTE_Tools/CUHKSZ_OCTE_Tools.js)  
 
 - `CUHKSZ_SIS_Tools`  
   - SIS 抢课计时器  
-  - 导入地址：[https://geraniol.github.io/CUHKSZ-Tools/CUHKSZ_OCTE_Tools/CUHKSZ_OCTE_Tools.js](https://geraniol.github.io/CUHKSZ-Tools/CUHKSZ_OCTE_Tools/CUHKSZ_OCTE_Tools.js)  
+  - 导入地址：[https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js](https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js)  
 
 - `CUHKSZ_?`  
   - 未完工，没想好叫啥  

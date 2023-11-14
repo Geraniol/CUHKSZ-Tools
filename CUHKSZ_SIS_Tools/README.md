@@ -23,7 +23,7 @@ Turn into green at the fifth second after loading.
 Download a supported extension from your browser's app store, then import the script file from the address below:  
 从浏览器的应用商店里下载受支持的扩展程序，然后从以下地址导入脚本文件：  
   
-[https://geraniol.github.io/Scripts/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js](https://geraniol.github.io/Scripts/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js)  
+[https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js](https://raw.githubusercontent.com/Geraniol/CUHKSZ-Tools/main/CUHKSZ_SIS_Tools/CUHKSZ_SIS_Tools.js)  
   
 Dashboard => Utilities / Plus => Import from URL  
 管理面板 => 实用工具 / 添加 => 从 URL 安装  
