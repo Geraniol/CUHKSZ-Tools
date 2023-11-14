@@ -2,7 +2,7 @@
 // @name        CUHKSZ SIS Tools
 // @description CUHKSZ SIS timing tool. Replace the original clock which refresh per second with a clock which will keep refreshing. Prevent pages from automatically closing. Turn into green at every ten minutes. Turn into green at the fifth second after loading. / CUHKSZ SIS 计时工具，将原来一秒钟刷新一次的时钟更换为不间断刷新的时钟；阻止页面自动关闭；在每个整十分钟显示绿色提示；在加载后第五秒钟显示绿色提示。
 // @grant       none
-// @version     1.3
+// @version     1.5
 // @match       https://sis.cuhk.edu.cn/*
 // @run-at      document-end
 // ==/UserScript==

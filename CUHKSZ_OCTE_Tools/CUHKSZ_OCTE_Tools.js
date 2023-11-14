@@ -2,7 +2,7 @@
 // @name        CUHKSZ OCTE Tools
 // @description CUHKSZ OCTE autofill tool. / CUHKSZ OCTE 自动评教工具。
 // @grant       none
-// @version     1.0
+// @version     1.2
 // @match       https://octe.cuhk.edu.cn/*
 // @run-at      document-end
 // ==/UserScript==
